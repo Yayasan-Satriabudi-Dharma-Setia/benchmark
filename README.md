@@ -21,6 +21,6 @@ Untuk installasi library silahkan mengunjungi link berikut [Tutorial Installasi 
 
 | Cloud Server  | Spesifikasi Server |Benchmark Script                          | Harga Per hWGS | Durasi Waktu | Ram Used | CPU Used                        |
 |-------------|---|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-|Alibaba| |`'benchmark_scrpit.ipynb'`            |            |
+|Alibaba|  |`'benchmark_scrpit.ipynb'`            |            |
 |Google| |`'benchmark_scrpit.ipynb'`            |            |
-|Huawei| |`'benchmark_scrpit.ipynb'`||
+|Huawei| Saat Konfigurasi: BW 10MB, 2vCPU 	Intel Ice Lake 2.6GHz,RAM 4GB |`'benchmark_scrpit.ipynb'`||
