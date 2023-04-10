@@ -19,8 +19,8 @@ Untuk installasi library silahkan mengunjungi link berikut [Tutorial Installasi 
 
 ## Hasil Benchmark
 
-| Cloud Server   |Benchmark Script                          | Harga Per hWGS | Durasi Waktu | Ram Used | CPU Used                        |
-|----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-|Alibaba|`'benchmark_scrpit.ipynb'`            |            |
-|Google|`'benchmark_scrpit.ipynb'`            |            |
-|Huawei|`'benchmark_scrpit.ipynb'`||
+| Cloud Server  | Spesifikasi Server |Benchmark Script                          | Harga Per hWGS | Durasi Waktu | Ram Used | CPU Used                        |
+|-------------|---|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+|Alibaba| |`'benchmark_scrpit.ipynb'`            |            |
+|Google| |`'benchmark_scrpit.ipynb'`            |            |
+|Huawei| |`'benchmark_scrpit.ipynb'`||
