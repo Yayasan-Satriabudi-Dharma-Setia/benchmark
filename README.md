@@ -34,5 +34,5 @@ https://github.com/Yayasan-Satriabudi-Dharma-Setia/BioinfoTraining/wiki/5.-Clara
 
 | Cloud Server  | Spesifikasi Server | Harga Per hWGS | Durasi Waktu | Ram Used | CPU Used                        | GPU Used |
 |-------------|---|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-|Huawei| Saat Konfigurasi: BW 100MB, 8vCPU 	Intel Cascade Lake 3.0GHz,RAM 64GB GPU A100 40GB | |59 Menit| 2GB | 2Core | |
-|Huawei| Saat Konfigurasi: BW 1MB, 8vCPU 	Intel Cascade Lake 3.0GHz,RAM 64GB GPU A100 40GB | |18 Menit 19Detik| All | All | All |
+|Huawei| Saat Konfigurasi: BW 100MB, 8vCPU 	Intel Cascade Lake 3.0GHz,RAM 64GB GPU A100 40GB | $1.83 BW, $4.91 ECS |59 Menit| 2GB | 2Core | |
+|Huawei| Saat Konfigurasi: BW 1MB, 8vCPU 	Intel Cascade Lake 3.0GHz,RAM 64GB GPU A100 40GB | $1.39 ECS |18 Menit 19Detik| All | All | All |
