@@ -19,12 +19,12 @@ Untuk installasi library silahkan mengunjungi link berikut [Tutorial Installasi 
 
 ## Hasil Benchmark
 
-| Cloud Server  | Spesifikasi Server |Benchmark Script                          | Harga Per hWGS | Durasi Waktu | Ram Used | CPU Used                        |
-|-------------|---|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+| Cloud Server  | Spesifikasi Server |Benchmark Script                          | Harga Per hWGS | Durasi Waktu | Ram Used | CPU Used                        | Disk Price |
+|-------------|---|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|---|
 |Alibaba|  |`'benchmark_scrpit.ipynb'`            |            |
 |Google| |`'benchmark_scrpit.ipynb'`            |            |
-|Huawei| Saat Konfigurasi: BW 10MB, 2vCPU 	Intel Ice Lake 2.6GHz,RAM 4GB |`'benchmark_scrpit.ipynb'`| $0.84 BW, $0.035 ECS  | 28Menit | 500MB | 1 Core |
-
+|Huawei| Saat Konfigurasi: BW 100MB, 2vCPU 	Intel Ice Lake 2.6GHz,RAM 4GB |`'benchmark_scrpit.ipynb'`| $0.84 BW, $0.035 ECS  | 28Menit | 500MB | 1 Core | <td rowspan="2"> $0.035</td>
+|Huawei| Saat Sequencing: BW 1MB, 24vCPU Intel Ice Lake 3.0GHz,RAM 96GB |`'benchmark_scrpit.ipynb'`| $11.09 ECS  | 8Jam 11Menit | 32GB-96GB | 24 Core |
 
 # Benchmark GPU
 ## Tutorial Menjalankan Benchmark
@@ -35,4 +35,4 @@ https://github.com/Yayasan-Satriabudi-Dharma-Setia/BioinfoTraining/wiki/5.-Clara
 | Cloud Server  | Spesifikasi Server | Harga Per hWGS | Durasi Waktu | Ram Used | CPU Used                        | GPU Used | Disk Price |
 |-------------|---|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|---|
 |Huawei| Saat Konfigurasi: BW 100MB, 8vCPU 	Intel Cascade Lake 3.0GHz,RAM 64GB GPU A100 40GB | $1.83 BW, $4.91 ECS |59 Menit| 2GB | 2Core | <td rowspan="2"> $0.014</td>
-|Huawei| Saat Konfigurasi: BW 1MB, 8vCPU 	Intel Cascade Lake 3.0GHz,RAM 64GB GPU A100 40GB | $1.39 ECS |18 Menit 19Detik| All | All | All |
+|Huawei| Saat Sequencing: BW 1MB, 8vCPU 	Intel Cascade Lake 3.0GHz,RAM 64GB GPU A100 40GB | $1.39 ECS |18 Menit 19Detik| All | All | All |
