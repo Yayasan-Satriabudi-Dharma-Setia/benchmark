@@ -23,7 +23,7 @@ Untuk installasi library silahkan mengunjungi link berikut [Tutorial Installasi 
 |-------------|---|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |Alibaba|  |`'benchmark_scrpit.ipynb'`            |            |
 |Google| |`'benchmark_scrpit.ipynb'`            |            |
-|Huawei| Saat Konfigurasi: BW 10MB, 2vCPU 	Intel Ice Lake 2.6GHz,RAM 4GB |`'benchmark_scrpit.ipynb'`|  | 28Menit | 500MB | 1 Core |
+|Huawei| Saat Konfigurasi: BW 10MB, 2vCPU 	Intel Ice Lake 2.6GHz,RAM 4GB |`'benchmark_scrpit.ipynb'`| $0.84BW, $0.035ECS  | 28Menit | 500MB | 1 Core |
 
 
 # Benchmark GPU
