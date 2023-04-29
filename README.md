@@ -1,3 +1,4 @@
+
 # Benchmark CPU
 
 ## Install Library
@@ -21,10 +22,8 @@ Untuk installasi library silahkan mengunjungi link berikut [Tutorial Installasi 
 
 | Cloud Server  | Spesifikasi Server |Benchmark Script                          | Harga Per hWGS | Durasi Waktu | Ram Used | CPU Used                        | Disk Price |
 |-------------|---|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|---|
-|Alibaba|  |`'benchmark_scrpit.ipynb'`            |            |
-|Google| |`'benchmark_scrpit.ipynb'`            |            |
-|Huawei| Saat Konfigurasi: BW 100MB, 2vCPU 	Intel Ice Lake 2.6GHz,RAM 4GB |`'benchmark_scrpit.ipynb'`| $0.84 BW, $0.035 ECS  | 28Menit | 500MB | 1 Core | <td rowspan="2"> $0.035</td>
-|Huawei| Saat Sequencing: BW 1MB, 24vCPU Intel Ice Lake 3.0GHz,RAM 96GB |`'benchmark_scrpit.ipynb'`| $11.09 ECS  | 8Jam 11Menit | 32GB-96GB | 24 Core |
+|Huawei| Saat Konfigurasi: BW 100MB, 2vCPU 	Intel Ice Lake 2.6GHz,RAM 4GB |`'benchmark_scrpit.ipynb'`| $0.84 BW, $0.035 ECS  | 28Menit | 500MB | 1 Core  <td rowspan="2"> $0.035</td>
+|Huawei| Saat Sequencing: BW 1MB, 24vCPU Intel Ice Lake 3.0GHz,RAM 96GB |`'benchmark_scrpit.ipynb'`| $11.09 ECS  | 8Jam 11Menit | 32GB-96GB | 24 Core 
 
 # Benchmark GPU
 ## Tutorial Menjalankan Benchmark
